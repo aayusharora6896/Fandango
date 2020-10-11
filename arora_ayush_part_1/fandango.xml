@@ -1,0 +1,656 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet snumber="text/css" href="fandango.css"?>
+<!DOCTYPE fandango SYSTEM "fandango.dtd">
+<fandango>
+    <date> Date of Show - 09/26/2018 </date>
+    <city cname="Rochester, NY">
+        <theater tname="theater1">
+            <name> Movies 10 </name>
+            <address> 2613 West Henrietta Road, Rochester, NY  14623 </address>
+            <movie number="theater1movie1">
+                <details>
+                    <html xmlns="http://www.w3.org/1999/xhtml">
+                        <img src = "img/11.jpg"/>
+                    </html>
+                    <title> The Happytime Murders </title>
+                    <desc>
+                        <rating> (R) </rating>
+                        <runtime> 1 hr 31 mins </runtime>
+                    </desc>
+                    <desc1>    
+                        <captioning/>
+                        <accessibility/>
+                    </desc1>
+                    <shows>
+                        <showTimings snumber="show1"> 12:25pm</showTimings>
+                        <showTimings snumber="show2"> 05:45pm</showTimings>
+                        <showTimings snumber="show3"> 07:50pm</showTimings>
+                    </shows>
+                </details>    
+            </movie>
+            <movie number="theater1movie2">
+                <details>
+                    <html xmlns="http://www.w3.org/1999/xhtml">
+                        <img src = "img/12.jpg"/>
+                    </html>
+                    <title> Alpha </title>
+                    <desc>
+                        <rating> (PG-13) </rating>
+                        <runtime> 1 hr 37 mins </runtime>
+                    </desc>
+                    <desc1>
+                        <captioning/>
+                        <accessibility/>
+                    </desc1>    
+                    <shows>
+                        <showTimings snumber="show1"> 12:20pm</showTimings>
+                        <showTimings snumber="show2"> 02:35pm</showTimings>
+                        <showTimings snumber="show3"> 04:50pm</showTimings>
+                        <showTimings snumber="show4"> 07:15pm</showTimings>
+                    </shows>
+                </details>        
+            </movie>
+            <movie number="theater1movie3">
+                <details>
+                    <html xmlns="http://www.w3.org/1999/xhtml">
+                        <img src = "img/13.jpg"/>
+                    </html>
+                    <title> Mile 22 </title>
+                    <desc>
+                        <rating> (R) </rating>
+                        <runtime> 1 hr 35 mins </runtime>
+                    </desc> 
+                    <desc1>
+                        <captioning/>
+                        <accessibility/>
+                    </desc1>
+                    <shows>
+                        <showTimings snumber="show1"> 12:05pm</showTimings>
+                        <showTimings snumber="show2"> 03:35pm</showTimings>
+                        <showTimings snumber="show3"> 07:25pm</showTimings>
+                    </shows>
+                </details>    
+            </movie>
+            <movie number="theater1movie4">
+                <details>
+                    <html xmlns="http://www.w3.org/1999/xhtml">
+                        <img src = "img/14.jpg"/>
+                    </html>
+                    <title> Slender Man </title>
+                    <desc>
+                        <rating> (PG-13) </rating>
+                        <runtime> 1 hr 33 mins </runtime>
+                    </desc> 
+                    <desc1>
+                        <captioning/>
+                        <accessibility/>
+                    </desc1>
+                    <shows>
+                        <showTimings snumber="show1"> 07:40pm</showTimings>
+                    </shows>
+                </details>    
+            </movie>
+            <movie number="theater1movie5">
+                <details>
+                    <html xmlns="http://www.w3.org/1999/xhtml">
+                        <img src = "img/15.png"/>
+                    </html>
+                    <title> The Spy Who Dumped Me </title>
+                    <desc>
+                        <rating> (R) </rating>
+                        <runtime> 1 hr 56 mins </runtime>
+                    </desc> 
+                    <desc1>
+                        <captioning/>
+                        <accessibility/>
+                    </desc1>
+                    <shows>
+                        <showTimings snumber="show1"> 02:30pm</showTimings>
+                    </shows>
+                </details>    
+            </movie>
+            <movie number="theater1movie6">
+                <details>
+                    <html xmlns="http://www.w3.org/1999/xhtml">
+                        <img src = "img/16.jpg"/>
+                    </html>
+                    <title> Teen Titans Go! To the Movies </title>
+                    <desc>
+                        <rating> (PG) </rating>
+                        <runtime> 1 hr 27 mins </runtime>
+                    </desc> 
+                    <desc1>
+                        <captioning/>
+                        <accessibility/>
+                    </desc1>
+                    <shows>
+                        <showTimings snumber="show1"> 01:00pm</showTimings>
+                        <showTimings snumber="show2"> 03:10pm</showTimings>
+                        <showTimings snumber="show3"> 05:15pm</showTimings>
+                    </shows>
+                </details>    
+            </movie>
+            <movie number="theater1movie7">
+                <details>
+                    <html xmlns="http://www.w3.org/1999/xhtml">
+                        <img src = "img/17.jpg"/>
+                    </html>
+                    <title> Mamma Mia! Here We Go Again </title>
+                    <desc>
+                        <rating> (PG-13) </rating>
+                        <runtime> 1 hr 54 mins </runtime>
+                    </desc> 
+                    <desc1>
+                        <captioning/>
+                        <accessibility/>
+                    </desc1>
+                    <shows>
+                        <showTimings snumber="show1"> 01:50pm</showTimings>
+                        <showTimings snumber="show2"> 04:20pm</showTimings>
+                        <showTimings snumber="show3"> 06:50pm</showTimings>
+                    </shows>
+                </details>    
+            </movie>
+            <movie number="theater1movie8">
+                <details>
+                    <html xmlns="http://www.w3.org/1999/xhtml">
+                        <img src = "img/18.jpg"/>
+                    </html>
+                    <title> The Equalizer 2 </title>
+                    <desc>
+                        <rating> (R) </rating>
+                        <runtime> 2 hr 01 mins </runtime>
+                    </desc> 
+                    <desc1>
+                        <captioning/>
+                        <accessibility/>
+                    </desc1>
+                    <shows>
+                        <showTimings snumber="show1"> 02:15pm</showTimings>
+                        <showTimings snumber="show2"> 04:55pm</showTimings>
+                        <showTimings snumber="show3"> 07:30pm</showTimings>
+                    </shows>
+                </details>    
+            </movie>
+            <movie number="theater1movie9">
+                <details>
+                    <html xmlns="http://www.w3.org/1999/xhtml">
+                        <img src = "img/19.jpg"/>
+                    </html>
+                    <title> Hotel Transylvania 3: Summer Vacation </title>
+                    <desc>
+                        <rating> (PG) </rating>
+                        <runtime> 1 hr 25 mins </runtime>
+                    </desc> 
+                    <desc1>
+                        <captioning/>
+                        <accessibility/>
+                    </desc1>
+                    <shows>
+                        <showTimings snumber="show1"> 12:10pm</showTimings>
+                        <showTimings snumber="show2"> 02:25pm</showTimings>
+                        <showTimings snumber="show3"> 04:40pm</showTimings>
+                        <showTimings snumber="show4"> 07:00pm</showTimings>
+                    </shows>
+                </details>    
+            </movie>
+            <movie number="theater1movie10">
+                <details>
+                    <html xmlns="http://www.w3.org/1999/xhtml">
+                        <img src = "img/110.jpg"/>
+                    </html>
+                    <title> Skyscraper (2018) </title>
+                    <desc>
+                        <rating> (PG-13) </rating>
+                        <runtime> 1 hr 42 mins </runtime>
+                    </desc> 
+                    <desc1>
+                        <captioning/>
+                        <accessibility/>
+                    </desc1>
+                    <shows>
+                        <showTimings snumber="show1"> 06:40pm</showTimings>
+                    </shows>
+                </details>    
+            </movie>
+            <movie number="theater1movie11">
+                <details>
+                    <html xmlns="http://www.w3.org/1999/xhtml">
+                        <img src = "img/111.jpg"/>
+                    </html>
+                    <title> Uncle Drew  </title>
+                    <desc>
+                        <rating> (PG-13) </rating>
+                        <runtime> 1 hr 43 mins </runtime>
+                    </desc> 
+                    <desc1>
+                        <captioning/>
+                        <accessibility/>
+                    </desc1>
+                    <shows>
+                        <showTimings snumber="show1"> 01:15pm</showTimings>
+                        <showTimings snumber="show2"> 05:05pm</showTimings>
+                    </shows>
+                </details>    
+            </movie>
+            <movie number="theater1movie12">
+                <details>
+                    <html xmlns="http://www.w3.org/1999/xhtml">
+                        <img src = "img/112.jpg"/>
+                    </html>
+                    <title> Jurassic World: Fallen Kingdom  </title>
+                    <desc>
+                        <rating> (PG-13) </rating>
+                        <runtime> 2 hr 08 mins </runtime>
+                    </desc> 
+                    <desc1>
+                        <captioning/>
+                        <accessibility/>
+                    </desc1>
+                    <shows>
+                        <showTimings snumber="show1"> 01:40pm</showTimings>
+                        <showTimings snumber="show2"> 04:25pm</showTimings>
+                        <showTimings snumber="show3"> 07:10pm</showTimings>
+                    </shows>
+                </details>    
+            </movie>
+            <movie number="theater1movie13">
+                <details>
+                    <html xmlns="http://www.w3.org/1999/xhtml">
+                        <img src = "img/113.jpg"/>
+                    </html>
+                    <title> Incredibles 2  </title>
+                    <desc>
+                        <rating> (PG-13) </rating>
+                        <runtime> 1 hr 58 mins </runtime>
+                    </desc> 
+                    <desc1>
+                        <captioning/>
+                        <accessibility/>
+                    </desc1>
+                    <shows>
+                        <showTimings snumber="show1"> 12:00pm</showTimings>
+                        <showTimings snumber="show2"> 02:45pm</showTimings>
+                        <showTimings snumber="show3"> 05:30pm</showTimings>
+                        <showTimings snumber="show4"> 08:15pm</showTimings>
+                    </shows>
+                </details>    
+            </movie>
+            <movie number="theater1movie114">
+                <details>
+                    <html xmlns="http://www.w3.org/1999/xhtml">
+                        <img src = "img/114.jpg"/>
+                    </html>
+                    <title> Ocean's 8 </title>
+                    <desc>
+                        <rating> (PG-13) </rating>
+                        <runtime> 1 hr 50 mins </runtime>
+                    </desc> 
+                    <desc1>
+                        <captioning/>
+                        <accessibility/>
+                    </desc1>
+                    <shows>
+                        <showTimings snumber="show1"> 01:30pm</showTimings>
+                        <showTimings snumber="show1"> 04:10pm</showTimings>
+                    </shows>
+                </details>    
+            </movie>
+        </theater>    
+        <theater  tname="theater2">  
+            <name> Regal Culver Ridge Plaza 16 </name>
+            <address> 2255 Ridge Road East, Irondequoit, NY  14622 </address>
+            <movie number="theater2movie1">
+                <details>
+                    <html xmlns="http://www.w3.org/1999/xhtml">
+                        <img src = "img/21.jpg"/>
+                    </html>
+                    <title> Life Itself (2018) </title>
+                    <desc>
+                        <rating> (R) </rating>
+                        <runtime> 1 hr 58 mins </runtime>
+                    </desc>
+                    <desc1>
+                        <captioning> Closed Caption </captioning>
+                        <accessibility/>
+                    </desc1>
+                    <shows>
+                        <showTimings snumber="show1"> 01:45pm</showTimings>
+                        <showTimings snumber="show2"> 04:30pm</showTimings>
+                        <showTimings snumber="show3"> 07:15pm</showTimings>
+                        <showTimings snumber="show4"> 10:00pm</showTimings>
+                    </shows>  
+                </details>      
+            </movie>
+            <movie number="theater2movie2">
+                <details>
+                    <html xmlns="http://www.w3.org/1999/xhtml">
+                        <img src = "img/22.jpg"/>
+                    </html>    
+                    <title> The House with a Clock in its Walls </title>
+                    <desc>
+                        <rating> (PG) </rating>
+                        <runtime> 1 hr 45 mins </runtime>
+                    </desc>
+                    <desc1>
+                        <captioning> Closed Caption </captioning>
+                        <accessibility> | Accessibility devices available </accessibility>
+                    </desc1>
+                    <shows>
+                        <showTimings snumber="show1"> 02:15pm</showTimings>
+                        <showTimings snumber="show2"> 04:55pm</showTimings>
+                        <showTimings snumber="show3"> 07:45pm</showTimings>
+                        <showTimings snumber="show4"> 10:20pm</showTimings>
+                    </shows>
+                </details>    
+            </movie>
+            <movie number="theater2movie3">
+                <details>
+                    <html xmlns="http://www.w3.org/1999/xhtml">
+                        <img src = "img/23.jpg"/>
+                    </html>
+                    <title> A Simple Favour </title>
+                    <desc>
+                        <rating> (R) </rating>
+                        <runtime> 1 hr 41 mins </runtime>
+                    </desc>
+                    <desc1>
+                        <captioning> Closed Caption </captioning>
+                        <accessibility> | Accessibility devices available </accessibility>
+                    </desc1>
+                    <shows>
+                        <showTimings snumber="show1"> 01:30pm</showTimings>
+                        <showTimings snumber="show2"> 04:05pm</showTimings>
+                        <showTimings snumber="show3"> 07:00pm</showTimings>
+                        <showTimings snumber="show4"> 09:40pm</showTimings>
+                    </shows>
+                </details>
+            </movie>
+            <movie number="theater2movie4">
+                <details>
+                    <html xmlns="http://www.w3.org/1999/xhtml">
+                        <img src = "img/24.jpg"/>
+                    </html>
+                    <title>The Predator </title>
+                    <desc>
+                        <rating> (R) </rating>
+                        <runtime> 1 hr 56 mins </runtime>
+                    </desc>
+                    <desc1>
+                        <captioning> Closed Caption </captioning>
+                        <accessibility> | Accessibility devices available </accessibility>
+                    </desc1>
+                    <shows>
+                        <showTimings snumber="show1"> 01:20pm</showTimings>
+                        <showTimings snumber="show2"> 04:15pm</showTimings>
+                        <showTimings snumber="show3"> 07:20pm</showTimings>
+                        <showTimings snumber="show4"> 10:05pm</showTimings>
+                    </shows>
+                </details>
+            </movie>
+            <movie number="theater2movie5">
+                <details>
+                    <html xmlns="http://www.w3.org/1999/xhtml">
+                        <img src = "img/25.jpg"/>
+                    </html>
+                    <title> White Boy Rick </title>
+                    <desc>
+                        <rating> (R) </rating>
+                        <runtime> 1 hr 51 mins </runtime>
+                    </desc>
+                    <desc1>
+                        <captioning> Closed Caption </captioning>
+                        <accessibility> | Accessibility devices available </accessibility>
+                    </desc1>
+                    <shows>
+                        <showTimings snumber="show1"> 01:35pm</showTimings>
+                        <showTimings snumber="show2"> 04:35pm</showTimings>
+                        <showTimings snumber="show3"> 07:25pm</showTimings>
+                        <showTimings snumber="show4"> 10:15pm</showTimings>
+                    </shows>
+                </details>
+            </movie>
+            <movie number="theater2movie6">
+                <details>
+                    <html xmlns="http://www.w3.org/1999/xhtml">
+                        <img src = "img/26.jpg"/>
+                    </html>
+                    <title> Peppermint </title>
+                    <desc>
+                        <rating> (R) </rating>
+                        <runtime> 1 hr 42 mins </runtime>
+                    </desc>
+                    <desc1>
+                        <captioning> Closed Caption </captioning>
+                        <accessibility> | Accessibility devices available </accessibility>
+                    </desc1>
+                    <shows>
+                        <showTimings snumber="show1"> 12:55pm</showTimings>
+                        <showTimings snumber="show2"> 03:30pm</showTimings>
+                        <showTimings snumber="show3"> 06:35pm</showTimings>
+                        <showTimings snumber="show4"> 09:10pm</showTimings>
+                    </shows>
+                </details>
+            </movie>
+            <movie number="theater2movie7">
+                <details>
+                    <html xmlns="http://www.w3.org/1999/xhtml">
+                        <img src = "img/27.jpg"/>
+                    </html>
+                    <title> The Nun </title>
+                    <desc>
+                        <rating> (R) </rating>
+                        <runtime> 1 hr 36 mins </runtime>
+                    </desc>
+                    <desc1>
+                        <captioning> Closed Caption </captioning>
+                        <accessibility> | Accessibility devices available </accessibility>
+                    </desc1>
+                    <shows>
+                        <showTimings snumber="show1"> 02:00pm</showTimings>
+                        <showTimings snumber="show2"> 04:25pm</showTimings>
+                        <showTimings snumber="show3"> 06:50pm</showTimings>
+                        <showTimings snumber="show4"> 09:15pm</showTimings>
+                    </shows>
+                </details>
+            </movie>
+            <movie number="theater2movie8">
+                <details>
+                    <html xmlns="http://www.w3.org/1999/xhtml">
+                        <img src = "img/28.jpg"/>
+                    </html>
+                    <title> Searching </title>
+                    <desc>
+                        <rating> (PG-13) </rating>
+                        <runtime> 1 hr 42 mins </runtime>
+                    </desc>
+                    <desc1>
+                        <captioning> Closed Caption </captioning>
+                        <accessibility> | Accessibility devices available </accessibility>
+                    </desc1>
+                    <shows>
+                        <showTimings snumber="show1"> 01:50pm</showTimings>
+                        <showTimings snumber="show2"> 04:45pm</showTimings>
+                        <showTimings snumber="show3"> 07:35pm</showTimings>
+                        <showTimings snumber="show4"> 10:30pm</showTimings>
+                    </shows>
+                </details>
+            </movie>
+            <movie number="theater2movie9">
+                <details>
+                    <html xmlns="http://www.w3.org/1999/xhtml">
+                        <img src = "img/29.jpg"/>
+                    </html>
+                    <title> Alpha </title>
+                    <desc>
+                        <rating> (PG-13) </rating>
+                        <runtime> 1 hr 37 mins </runtime>
+                    </desc>
+                    <desc1>
+                        <captioning> Closed Caption </captioning>
+                        <accessibility> | Accessibility devices available </accessibility>
+                    </desc1>
+                    <shows>
+                        <showTimings snumber="show1"> 12:55pm</showTimings>
+                        <showTimings snumber="show2"> 03:25pm</showTimings>
+                        <showTimings snumber="show3"> 06:30pm</showTimings>
+                        <showTimings snumber="show4"> 09:05pm</showTimings>
+                    </shows>
+                </details>
+            </movie>
+            <movie number="theater2movie10">
+                <details>
+                    <html xmlns="http://www.w3.org/1999/xhtml">
+                        <img src = "img/210.jpg"/>
+                    </html>
+                    <title> Crazy Rich Asians </title>
+                    <desc>
+                        <rating> (PG-13) </rating>
+                        <runtime> 2 hr 00 mins </runtime>
+                    </desc>
+                    <desc1>
+                        <captioning> Closed Caption </captioning>
+                        <accessibility> | Accessibility devices available </accessibility>
+                    </desc1>
+                    <shows>
+                        <showTimings snumber="show1"> 01:00pm</showTimings>
+                        <showTimings snumber="show2"> 03:50pm</showTimings>
+                        <showTimings snumber="show3"> 06:40pm</showTimings>
+                        <showTimings snumber="show4"> 09:30pm</showTimings>
+                    </shows>
+                </details>
+            </movie>
+            <movie number="theater2movie11">
+                <details>
+                    <html xmlns="http://www.w3.org/1999/xhtml">
+                        <img src = "img/211.jpg"/>
+                    </html>
+                    <title> Slender Man </title>
+                    <desc>
+                        <rating> (PG-13) </rating>
+                        <runtime> 1 hr 33 mins </runtime>
+                    </desc>
+                    <desc1>
+                        <captioning> Closed Caption </captioning>
+                        <accessibility> | Accessibility devices available </accessibility>
+                    </desc1>
+                    <shows>
+                        <showTimings snumber="show1"> 02:10pm</showTimings>
+                        <showTimings snumber="show2"> 04:50pm</showTimings>
+                        <showTimings snumber="show3"> 07:40pm</showTimings>
+                        <showTimings snumber="show4"> 10:35pm</showTimings>
+                    </shows>
+                </details>
+            </movie>
+            <movie number="theater2movie12">
+                <details>
+                    <html xmlns="http://www.w3.org/1999/xhtml">
+                        <img src = "img/212.jpg"/>
+                    </html>
+                    <title> The Meg </title>
+                    <desc>
+                        <rating> (PG-13) </rating>
+                        <runtime> 1 hr 53 mins </runtime>
+                    </desc>
+                    <desc1>
+                        <captioning> Closed Caption </captioning>
+                        <accessibility> | Accessibility devices available </accessibility>
+                    </desc1>
+                    <shows>
+                        <showTimings snumber="show1"> 01:40pm</showTimings>
+                        <showTimings snumber="show2"> 04:40pm</showTimings>
+                        <showTimings snumber="show3"> 07:30pm</showTimings>
+                        <showTimings snumber="show4"> 10:25pm</showTimings>
+                    </shows>
+                </details>
+            </movie>
+            <movie number="theater2movie13">
+                <details>
+                    <html xmlns="http://www.w3.org/1999/xhtml">
+                        <img src = "img/213.jpg"/>
+                    </html>
+                    <title> Mission: Impossible - Fallout </title>
+                    <desc>
+                        <rating> (PG-13) </rating>
+                        <runtime> 2 hr 27 mins </runtime>
+                    </desc>
+                    <desc1>
+                        <captioning> Closed Caption </captioning>
+                        <accessibility> | Accessibility devices available </accessibility>
+                    </desc1>
+                    <shows>
+                        <showTimings snumber="show1"> 01:15pm</showTimings>
+                        <showTimings snumber="show2"> 04:30pm</showTimings>
+                        <showTimings snumber="show3"> 07:50pm</showTimings>
+                    </shows>
+                </details>
+            </movie>
+            <movie number="theater2movie14">
+                <details>
+                    <html xmlns="http://www.w3.org/1999/xhtml">
+                        <img src = "img/214.jpg"/>
+                    </html>
+                    <title> The Equalizer 2 </title>
+                    <desc>
+                        <rating> (R) </rating>
+                        <runtime> 2 hr 01 mins </runtime>
+                    </desc>
+                    <desc1>
+                        <captioning> Closed Caption </captioning>
+                        <accessibility> | Accessibility devices available </accessibility>
+                    </desc1>
+                    <shows>
+                        <showTimings snumber="show1"> 01:10pm</showTimings>
+                        <showTimings snumber="show2"> 04:10pm</showTimings>
+                        <showTimings snumber="show3"> 07:05pm</showTimings>
+                        <showTimings snumber="show4"> 09:55pm</showTimings>
+                    </shows>
+                </details>
+            </movie>
+            <movie number="theater2movie15">
+                <details>
+                    <html xmlns="http://www.w3.org/1999/xhtml">
+                        <img src = "img/215.jpeg"/>
+                    </html>
+                    <title> Ant-Man and the Wasp </title>
+                    <desc>
+                        <rating> (PG-13) </rating>
+                        <runtime> 1 hr 58 mins </runtime>
+                    </desc>
+                    <desc1>
+                        <captioning> Closed Caption </captioning>
+                        <accessibility> | Accessibility devices available </accessibility>
+                    </desc1>
+                    <shows>
+                        <showTimings snumber="show1"> 01:25pm</showTimings>
+                        <showTimings snumber="show2"> 04:20pm</showTimings>
+                        <showTimings snumber="show3"> 07:10pm</showTimings>
+                        <showTimings snumber="show4"> 10:10pm</showTimings>
+                    </shows>
+                </details>
+            </movie>
+            <movie number="theater2movie16">
+                <details>
+                    <html xmlns="http://www.w3.org/1999/xhtml">
+                        <img src = "img/216.png"/>
+                    </html>
+                    <title> Incredibles 2 </title>
+                    <desc>
+                        <rating> (PG) </rating>
+                        <runtime> 1 hr 58 mins </runtime>
+                    </desc>
+                    <desc1>
+                        <captioning> Closed Caption </captioning>
+                        <accessibility> | Accessibility devices available </accessibility>
+                    </desc1>
+                    <shows>
+                        <showTimings snumber="show1"> 01:05pm</showTimings>
+                        <showTimings snumber="show2"> 04:00pm</showTimings>
+                        <showTimings snumber="show3"> 06:55pm</showTimings>
+                        <showTimings snumber="show4"> 09:50pm</showTimings>
+                    </shows>
+                </details>
+            </movie>
+        </theater>
+    </city>
+</fandango>
